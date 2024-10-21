@@ -1,0 +1,51 @@
+body{
+    background-color: grey;
+}
+div.bb p{
+    color: blueviolet;
+}
+div.b h2{
+    color: red;
+}
+#block p{
+    color: darkblue;
+}
+#block1 h2{
+    color: purple;
+}
+.bbb{
+    color: green;
+}
+#block3 .bbb1{
+    color: violet;
+}
+p.bbb2{
+    color: orangered;
+}
+#block p.bbb {
+    color: blue;
+}
+.bbb, .xxx {
+    color: yellow;
+}
+p.bbb, h2.xxx {
+    color: greenyellow;
+}
+#block p.bbb, #block p.xxx {
+    color: hotpink;
+}
+.fff {
+    color: cyan;
+}
+.fff p {
+    color: blueviolet;
+}
+p.fff {
+    color: darkred;
+}
+.fff .bbb {
+    color: darkgreen;
+}
+.fff h2.bbb {
+    color: orange;
+}
